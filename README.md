@@ -1,5 +1,5 @@
 # Menu
-simple navigation pages built with react.Js
+simple navigation pages built with Js
 
 This project is built with SCSS and Js.
 
